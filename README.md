@@ -1,2 +1,2 @@
 # Smurfs
-( Java &amp; OOP &amp; Dijkstra's Algorithm)
+Java &amp; OOP &amp; Dijkstra's Algorithm
