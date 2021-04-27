@@ -1,2 +1,2 @@
 # Smurfs
-Java &amp; OOP &amp; Dijkstra's Algorithm
+Maze shortest path game using Java &amp; OOP &amp; Dijkstra's Algorithm
